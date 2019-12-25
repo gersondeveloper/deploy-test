@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Aprenda React
+          Aprenda React Agora
         </a>
       </header>
     </div>
